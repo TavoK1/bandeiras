@@ -37,3 +37,20 @@
     float: left;
     background-color: green;
 }
+
+
+
+#azul-frança{
+    width: 33.333%;
+    height: 100%;
+    float: left;
+    background-color: blue;
+}
+
+
+#vermelho-frança{
+    width: 33.333%;
+    height: 100%;
+    float: right;
+    background-color: red;
+}
