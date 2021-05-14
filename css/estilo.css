@@ -2,7 +2,7 @@
     margin: 0 auto;
 }
 
-.bandeira {
+.bandeira{
     height: 500px;
     border: 1px solid black;
     box-sizing: border-box;
@@ -24,14 +24,14 @@
 }
 
 
-#faixa-vermelha-italia {
+#vermelha-italia{
     width: 33.333%;
     height: 100%;
     float: right;
     background-color: red;
 }
 
-#faixa-verde-italia{
+#verde-italia{
     width: 33.333%;
     height: 100%;
     float: left;
